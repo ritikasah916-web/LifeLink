@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LifeLink — Blood Donation Management System
 
 LifeLink is a full-stack React + Express application connecting blood donors and hospitals. It includes role-based dashboards, blood request matching, donor responses, live donor notifications, and admin oversight.
@@ -107,3 +108,6 @@ The current MVP matches exact blood group and city. This is a software discovery
 
 - The uploaded source archive contained a `.env`; it is deliberately excluded from this rebuilt ZIP. Create a fresh one from `.env.example`.
 - `node_modules` is not included. Run `npm install` in both folders.
+=======
+# LifeLink
+>>>>>>> fb83b71100850d6c25b0980f02f9a6558b197ca1
